@@ -65,9 +65,6 @@ iLearn is an advanced e-learning platform designed to facilitate online educatio
 ## 🔧 Database Schema
 [database diagram](https://drive.google.com/file/d/1SB8UDyMp4gyX9FvfD0wBZHD-sScMW1kz/view)
 
-## 📋 UseCase Diagram
-
-[appdiagram](https://drive.google.com/file/d/1rKQ4RiHV2iyZ_5Fhktr6nRaey9r84CDu/view?usp=sharing) 
 
 
 ## Authors
