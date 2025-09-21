@@ -1,7 +1,7 @@
 # iLearn
 ## 📋 Overview
 
-Inspired by platforms like Udemy, iLearn offers students access to a vast array of courses taught by qualified mentors. The platform supports a rich set of functionalities for various types of users (admins, mentors, students).
+iLearn is an advanced e-learning platform designed to facilitate online education. Inspired by platforms like Udemy, iLearn offers students access to a vast array of courses taught by qualified mentors. The platform supports a rich set of functionalities for various types of users (admins, mentors, students).
 
 ## ⚡ Actors
 ### Administrator
