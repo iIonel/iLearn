@@ -1,0 +1,6 @@
+@ILearn.Server_HostAddress = http://localhost:5267
+
+GET {{ILearn.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
